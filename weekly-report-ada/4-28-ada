@@ -2,10 +2,15 @@ Weekly Report 3
 NOTE: These reports will be for my Kaggle progress only, as I am working with the group on MCMF.
 4/28
 Progress:
-- Only did basic EDA, such as looking at correlation and distribution of variables 
+- Started basic EDA
+- Looked at correlation between variables and response
+- Looked at correlation between variables
+- Looked at distribution of about 10 of the variables most correlated with response
 
 Problem:
-- Doing EDA for this simulatenously with MCMF dataset
+- Having trouble balancing Kaggle work with MCMF work
+- Still figuring out how to deal with the high volume of features
 
 Plan:
-- Focus next week on Kaggle EDA; finish EDA for this dataset
+- Complete EDA by next week
+- Make one submission into Kaggle just to see RMSE baseline
