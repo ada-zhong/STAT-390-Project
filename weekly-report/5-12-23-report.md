@@ -1,7 +1,7 @@
 # Weekly Report 5
 Group: Cathy Kim, Matthew Phi, Ada Zhong, Angelina Jaglinski
 
-05/10/2023
+05/12/2023
 
 #### Progress:
 - We met and discussed what we want our final product to look like. So far, we have brainstormed:
