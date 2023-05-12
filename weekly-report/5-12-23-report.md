@@ -14,5 +14,7 @@ Group: Cathy Kim, Matthew Phi, Ada Zhong, Angelina Jaglinski
 
 #### Problem:
 - We were initially stuck with how to incorporate machine learning into the problem, i.e. what we should be predicting using ML models.
+- A lot of the variables are categorical in nature, which makes it difficult to use to predict things such as price range or number of programs.
 
 #### Plan:
+- We plan to talk to Prof. Shi about the direction of our project, whether that is creating a tool that is beneficial for the stakeholders, making a prediction problem that is relevant to the course, or trying to figure out how to strike a balance of both.
