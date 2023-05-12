@@ -20,3 +20,5 @@ Group: Cathy Kim, Matthew Phi, Ada Zhong, Angelina Jaglinski
 #### Plan:
 - We plan to talk to Prof. Shi about the direction of our project, whether that is creating a tool that is beneficial for the stakeholders, making a prediction problem that is relevant to the course, or trying to figure out how to strike a balance of both.
 - We plan to make a submission for the Kaggle problem this week and continue working on making improved submissions.
+
+After talking to Professor Shi, we have a clearer direction for the project. We will be focusing on the "Shiny" app that will be useful for the stakeholders, where we will be focusing on interactive visualizations.
