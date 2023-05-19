@@ -6,7 +6,7 @@ Group: Cathy Kim, Matthew Phi, Ada Zhong, Angelina Jaglinski
 #### Progress:
 - Decided to use Shiny app software over Tableau/PowerBI/etc.
 - Performed EDA on our "accessibility variables" (age, capacity, etc.) to get a sense of what visualizations will be most useful to the community partner
-- Finalized visualizations for Shiny app and split up work (Cathy and Angelina will work on visualizations, Matt will work on Shiny architecture)
+- Finalized which visualizations to display on Shiny app
 - Achieved lower RMSE on Kaggle after tuning lasso model
 - Achieved even lower RMSE on Kaggle after using a Neural Network
 
@@ -17,4 +17,6 @@ Group: Cathy Kim, Matthew Phi, Ada Zhong, Angelina Jaglinski
 - Unclear on next direction to take Kaggle models
 
 #### Plan:
-- 
+- Make visualizations for Shiny app (Cathy & Angelina)
+- Make Shiny app architecture (Matt)
+- Continue to try different Kaggle models and see what works best (Everyone)
