@@ -21,3 +21,4 @@ Group: Cathy Kim, Matthew Phi, Ada Zhong, Angelina Jaglinski
 - Make Shiny app architecture (Matt)
 - Continue to try different Kaggle models and see what works best (Everyone)
   - Start with something other than PCA
+- Meet up several times in the coming week to finalize the projects and make presentations
